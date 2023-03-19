@@ -2,4 +2,4 @@
 # 🇧🇷 Olá!👋 Eu sou o Gustavo Martins ✨
 
 ### 🇺🇸 I am currently studying Computer Engineering at IESB and plan to work as a Full Stack Developer.
-### 🇧🇷 Atualmente estou cursando Engenharia de Computação no IESB e planejo trabalhar como Progamador Full Stack.
+### 🇧🇷 Atualmente estou cursando Engenharia de Computação no IESB e planejo trabalhar como Programador Full Stack.
