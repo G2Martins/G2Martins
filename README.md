@@ -1,4 +1,4 @@
-# Gustavo Martins Gripaldi
+# ⁶𓅓 Gustavo Martins Gripaldi 
 • Hello! My name is Gustavo Martins, and I'm from Florianópolis, Santa Catarina. My mother was born in Rio de Janeiro and joined the military career in the army, which allowed us to travel throughout Brazil. During my life, I have lived in various cities, including São Paulo (SP), Vila Velha (ES), João Pessoa (PB), Rio de Janeiro (RJ), and I am currently in Brasília.
 
 • Along my academic journey, I received the gold medal in the Military School Olympics in Rio de Janeiro and an honorable mention in the Brazilian Chemistry Olympiad.
