@@ -8,7 +8,7 @@
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/g2martins/)
 [![Linktree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=)](https://beacons.ai/g2martins/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/g2martins/?hl=pt-br)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_g2martins/?hl=pt-br)
 
 ## My Skills:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
