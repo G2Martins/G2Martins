@@ -3,7 +3,7 @@
 
 • Along my academic journey, I received the gold medal in the Military School Olympics in Rio de Janeiro and an honorable mention in the Brazilian Chemistry Olympiad.
 
-• Currently, I am studying Computer Engineering at [IESB](https://www.iesb.br).
+• Currently, I am studying Computer Engineering at [IESB](https://www.iesb.br) 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/g2martins/)
