@@ -22,7 +22,16 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=G2Martins&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<h3 align="center">
+  Developer • Python • Java • Computer Engineering Student
+</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G2Martins&theme=python-dark&border_radius=5)](https://git.io/streak-stats)
+<div align='center'>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G2Martins&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2Martins&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
+</div>
+
+</div>
+  
