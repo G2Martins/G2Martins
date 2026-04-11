@@ -1,43 +1,75 @@
+<div align="center">
+
 # ⁶𓅓 Gustavo Martins Gripaldi
 
-• Hello! My name is Gustavo Martins, and I'm from Florianópolis, Santa Catarina. My mother was born in Rio de Janeiro and joined the military career in the army, which allowed us to travel throughout Brazil. During my life, I have lived in various cities, including São Paulo (SP), Vila Velha (ES), João Pessoa (PB), Rio de Janeiro (RJ), and I am currently in Brasília.
+**Data & BI Engineer | Building scalable data pipelines and turning raw data into business decisions**
 
-• Along my academic journey, I received the gold medal in the Military School Olympics in Rio de Janeiro and an honorable mention in the Brazilian Chemistry Olympiad.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g2martins/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://g2martins.github.io/G2Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavogripaldi@outlook.com)
+![Profile Views](https://komarev.com/ghpvc/?username=G2Martins&color=blueviolet&style=for-the-badge)
 
-• Currently, I am studying Computer Engineering at [IESB](https://www.iesb.br)
+</div>
 
-## Connect with me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/g2martins/)
-[![Linktree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=)](https://beacons.ai/g2martins/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_g2martins/?hl=pt-br)
+## About Me
 
-## My Stack:
+- Currently working as a **Business Intelligence Assistant** at **Brasal**, modernizing data architecture with **Microsoft Fabric** and **PySpark**
+- Building and maintaining **ETL pipelines** with Pentaho and Azure Data Lake for enterprise-scale data flows
+- Creating strategic **Power BI dashboards** with advanced **DAX** for business rule modeling
+- Studying **Computer Engineering** at IESB (7th semester, graduating Dec 2026)
+- Previously interned in **Data Science** (Brasal Refrigerantes) and **Full Stack Development** (PGFN)
 
-![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
 
-<h3 align="center">
-  Developer • Python • Java • Computer Engineering Student
-</h3>
+## Tech Stack
+
+**Data & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho_PDI-2B579A?style=for-the-badge&logo=hitachivantara&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G2Martins&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2Martins&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+
+<img width="60%" src="https://streak-stats.demolab.com?user=G2Martins&theme=transparent&hide_border=true&background=0d1117&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&sideLabels=c9d1d9&dates=c9d1d9" />
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=G2Martins&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15)](https://github.com/G2Martins)
+
+</div>
+
+---
+
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G2Martins&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2Martins&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
-</div>
+*Let's connect -- I'm always interested in challenging data problems.*
 
 </div>
-</div>
-  <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-<div><br />
