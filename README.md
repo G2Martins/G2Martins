@@ -70,6 +70,6 @@
 ---
 
 <div align="center">
-*Let's connect -- I'm always interested in challenging data problems.*
+Let's connect -- I'm always interested in challenging data problems.
 
 </div>
