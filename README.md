@@ -16,7 +16,7 @@
 ## About Me
 
 - Currently working as a **Business Intelligence Assistant** at **Brasal**, modernizing data architecture with **Microsoft Fabric** and **PySpark**
-- Building and maintaining **ETL pipelines** with Pentaho and Azure Data Lake for enterprise-scale data flows
+- Building and maintaining **ETL pipelines** with Fabric, PySpark, Pentaho and Azure Data Lake for enterprise-scale data flows
 - Creating strategic **Power BI dashboards** with advanced **DAX** for business rule modeling
 - Studying **Computer Engineering** at IESB (7th semester, graduating Dec 2026)
 - Previously interned in **Data Science** (Brasal Refrigerantes) and **Full Stack Development** (PGFN)
@@ -58,12 +58,9 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G2Martins&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2Martins&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-
 <img width="60%" src="https://streak-stats.demolab.com?user=G2Martins&theme=transparent&hide_border=true&background=0d1117&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&sideLabels=c9d1d9&dates=c9d1d9" />
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=G2Martins&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15)](https://github.com/G2Martins)
+[![Trophy](https://github-profile-trophy-tawny.vercel.app/?username=G2Martins&theme=radical)](https://github.com/G2Martins)
 
 </div>
 
