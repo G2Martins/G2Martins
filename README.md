@@ -70,3 +70,7 @@
 Let's connect -- I'm always interested in challenging data problems.
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=150458&height=100&section=footer" />
+</div>
