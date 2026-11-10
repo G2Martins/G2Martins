@@ -1,0 +1,27 @@
+# Draws the contribution-graph snake (light + dark, portfolio palette) and publishes it to the
+# `output` branch, which the README reads. Uses only the automatic GITHUB_TOKEN: no secrets to set.
+name: snake
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions: {}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#003ADD&color_dots=#EEEBE3,#C3D2FF,#668FFF,#003ADD,#001C80
+            dist/snake-dark.svg?color_snake=#668FFF&color_dots=#23221F,#1A2A66,#2F55C8,#668FFF,#C3D2FF
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

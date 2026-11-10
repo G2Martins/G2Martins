@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- G2 mark (portfolio palette) "G²": heavy G with ball terminal, split-hex core, exponent 2 carved out of the G. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#003add"/>
+      <stop offset="1" stop-color="#001c80"/>
+    </linearGradient>
+    <path id="two" d="M 706 214 A 76 76 0 1 1 842 270 L 712 396 L 884 396" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="hexOuter" d="M 358 560 L 414 463 L 526 463 L 582 560 L 526 657 L 414 657 Z"/>
+    <mask id="carve" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+      <rect width="1024" height="1024" fill="#fff"/>
+      <use href="#two" stroke="#000" stroke-width="160"/>
+      <use href="#hexOuter" fill="#000"/>
+    </mask>
+  </defs>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <g transform="translate(-20 26)">
+    <g mask="url(#carve)" fill="#faf9f6">
+      <path d="M 552.5 365.1 A 225 225 0 1 0 665 560 L 520 560" fill="none" stroke="#faf9f6" stroke-width="160" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="552.5" cy="365.1" r="96"/>
+    </g>
+    <path d="M 382 560 L 426 484 L 514 484 L 426 636 Z" fill="#c3d2ff"/>
+    <path d="M 514 484 L 558 560 L 514 636 L 426 636 Z" fill="#668fff"/>
+    <use href="#two" stroke="#8fa8ff" stroke-width="100"/>
+  </g>
+</svg>
